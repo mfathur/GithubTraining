@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         //I'll try my base
         //asdasdasdasd
         //this was committed in branch2local
+        //halo dari branch 2 local
     }
 }
